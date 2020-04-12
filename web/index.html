@@ -9,9 +9,35 @@
   <meta name="author" content="Douglas Adams">
 
   <link rel="stylesheet" href="style/global.css">
+<style>
+#header {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+}
+
+#login-wrapper {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+</style>
 </head>
 
 <body>
+  <div id="header">
+    <div id="login-wrapper" class="nav-button">
+      <a href="/login.html">Login</a>
+    </div>
+  </div>
+  <div id="main">
+  </div>
+
+  <div id="footer">
+  </div>
+
   <script src="script/global.js"></script>
+  <script>
+    console.info("Loading index.html JavaScript");
+  </script>
 </body>
 </html>

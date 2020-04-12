@@ -1,1 +1,1 @@
-console.log("Hello world");
+console.info("Loading global.js");
