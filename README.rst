@@ -5,17 +5,17 @@ An app for organizing your life, your business, your goals.
 
 This app will help you:
 
-1) Set your goals
-2) Break them down into key components
-  a) Measurable goals
-  b) Aspirational values
-3) Iterate on your plan
-  a) Measure what can be measured
-  b) Reflect on what matters
-  c) Test theories
-  d) Update often
-4) Recognize success
-5) Help others
+1. Set your goals
+2. Break them down into key components
+    a. Measurable goals
+    b. Aspirational values
+3. Iterate on your plan
+    a. Measure what can be measured
+    b. Reflect on what matters
+    c. Test theories
+    d. Update often
+4. Recognize success
+5. Help others
 
 Technical Info
 ==============
